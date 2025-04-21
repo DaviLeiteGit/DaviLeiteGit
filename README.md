@@ -49,7 +49,7 @@ Me chamo Davi Roberto Leite, tenho 21 anos e sou natural do Distrito Federal. So
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" /> <img
     align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
+<br/><br/><br/>
 ### 📊 Estatísticas
 
 <p>
