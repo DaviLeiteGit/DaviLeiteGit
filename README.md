@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Davi Leite
+# 👨‍💻 Davi Leite
 
 **`Desenvolvedor FullStack`**
 Me chamo Davi Roberto Leite, tenho 21 anos e sou natural do Distrito Federal. Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Tenho experiência com desenvolvimento web e backend utilizando tecnologias como **Angular**, **TypeScript**, **Java**, **Spring Boot**, além de bancos de dados relacionais e não-relacionais. Já atuei em projetos de impacto público como portais de pesquisa, envolvendo visualização dinâmica de dados com **ElasticSearch** e uso de IA, sou movido por desafios e inovação.
