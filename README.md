@@ -20,7 +20,7 @@ Me chamo Davi Roberto Leite, tenho 21 anos e sou natural do Distrito Federal. So
     </a>
 </p>
 ### 🤖 Linguagens e Tecnologias
-<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px; vertical-align: middle; margin-top: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+<img align="left" alt="Angular" title="Angular" width="30px" style="max-width: 100%;margin-top: 14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
